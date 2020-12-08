@@ -1,5 +1,5 @@
 package bureauPosteClass;
 
-public class guichetPro {
+public class guichetPro extends guichet{
 
 }

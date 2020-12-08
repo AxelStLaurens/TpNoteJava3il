@@ -1,5 +1,6 @@
 package bureauPosteClass;
 
-public class clientPro {
+public class clientPro extends client{
+
 
 }
